@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-int maximumElement(vector<int> &arr)
+int secondmax(vector<int> &arr)
 {
   if ( arr.empty()) return -1;
 
@@ -27,7 +27,7 @@ vector<int> arr(n);
 for ( int i =0 ; i < n; i++)
 cin >> arr[i];
 
-cout << maximumElement(arr);
+cout << secondmax(arr);
 
 return 0;
 }
