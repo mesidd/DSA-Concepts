@@ -1,0 +1,6 @@
+
+set<int> st(arr.begin(),arr.end());
+
+set<int> st;
+  for (int i = 0 ; i < arr.size(); i++)
+  st.insert(arr[i]);
