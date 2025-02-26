@@ -1,3 +1,4 @@
+// Sorted Array
 #include<bits/stdc++.h>
 using namespace std;
 void removeDup(vector<int> &arr)
