@@ -1,3 +1,2 @@
-# DSA
-Welcome to my DSA repository.
-This repository contains solutions to important questions.
+#Concepts
+This repository contains important concepts in C++.
